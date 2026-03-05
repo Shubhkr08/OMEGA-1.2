@@ -38,6 +38,7 @@ This is a Custom Rp2040 Chip Based MicroPad , It has 9 Switches , a roter encode
 | 1 | USB4215-03-A | USB Type-C Receptacle (USB 2.0) | 0.49000 | 0.49 |
 | 2 | RC0402FR-075K1L | 5.1KΩ 1% Resistor (0402) | 0.10000 | 0.20 |
 | 2 | ERA-2AEB273X | 27KΩ 0.1% Resistor (0402) | 0.10000 | 0.20 |
+| 1 | 18996 | 0.91" OLED Display Module | 25.00000 | 25.00 |
 | 2 | RMCF0603FT1K00 | 1KΩ 1% Resistor (0603) | 0.10000 | 0.20 |
 | 1 | RC0201FR-0710KL | 10KΩ 1% Resistor (0201) | 0.10000 | 0.10 |
 | 1 | SW-PB9-AB00AQE-5 | Subminiature Pushbutton Switch | 3.39000 | 3.39 |
@@ -51,7 +52,7 @@ This is a Custom Rp2040 Chip Based MicroPad , It has 9 Switches , a roter encode
 | 9 | MX2A-71NW | Cherry MX Silent Red Switch | 1.95000 | 17.55 |
 | 10 | 1N4148 | Signal Diode 100V 200mA | 0.03900 | 0.39 |
 | 1 | 6071183 | Rotary Encoder (BCG13 Series) | 2.44000 | 2.44 |
-| 1 | 18996 | 0.91" OLED Display Module | 25.00000 | 25.00 |
+
 
 ### **DigiKey Components Subtotal: $64.78 USD**
 
@@ -61,9 +62,9 @@ This is a Custom Rp2040 Chip Based MicroPad , It has 9 Switches , a roter encode
 
 | Item | Cost (USD) |
 |------|------------|
-| DigiKey Shipping | 20.00 |
-| JLCPCB – PCB Fabrication + Stencil | 9.01 |
-| JLCPCB Shipping | 29.05 |
+| DigiKey Shipping  | 20.00 |
+| JLCPCB – PCB Fabrication + Stencil | 7.01 |
+| JLCPCB Shipping - Coupons | 8.16 |
 
 ---
 
@@ -73,10 +74,10 @@ This is a Custom Rp2040 Chip Based MicroPad , It has 9 Switches , a roter encode
 |----------|------------|
 | DigiKey Components | 64.78 |
 | DigiKey Shipping | 20.00 |
-| JLCPCB PCB + Stencil | 9.01 |
-| JLCPCB Shipping | 29.05 |
-| **Grand Total** | **122.84 USD** |
+| JLCPCB PCB + Stencil | 7.01 |
+| JLCPCB Shipping - Coupons | 8.16|
+| **Grand Total** | **99.95 USD** |
 
 ---
 
-##  Final Total: **$122.84 USD**
+##  Final Total: **$99.95 USD**
