@@ -21,6 +21,6 @@ Component,9,MX2A-71NW,Cherry MX Silent Red Switch,DigiKey.in,1.95,17.55
 Component,10,1N4148,Signal Diode 100V 200mA,DigiKey.in,0.039,0.39
 Component,1,6071183,Rotary Encoder (BCG13 Series),DigiKey.in,2.44,2.44
 Service,1,DIGIKEY-SHIPPING,DigiKey Shipping - Coupon,DigiKey.in,20,20
-Service,1,JLCPCB-PCB-STENCIL,JLCPCB PCB + Stencil,JLCPCB,9.01,9.01
-Service,1,JLCPCB-SHIPPING,JLCPCB Shipping - Coupon,JLCPCB,18.16,18.16
-,,,Grand Total,,,88.9
+Service,1,JLCPCB-PCB-STENCIL,JLCPCB PCB + Stencil,JLCPCB,7.01,7.01
+Service,1,JLCPCB-SHIPPING,JLCPCB Shipping - Coupon,JLCPCB,8.16,8.16
+,,,Grand Total,,,76.9
